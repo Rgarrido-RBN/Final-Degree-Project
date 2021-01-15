@@ -1,0 +1,63 @@
+Partlist
+
+Exported from Control_vivero.brd at 20/5/20 9:54
+
+EAGLE Version 9.6.1 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package            Library                Position (mm)         Orientation
+
++        LSP10          LSP10              solpad                 (138.92 60.18)        R180
+-        LSP10          LSP10              solpad                 (143.08 60.28)        R180
+B1       ARDUINO_FIO    ARDUINO_FIO_SOCKET Componentes_PCB_vivero (128.99 19.6)         R90
+C1       33u            E2,5-7             rcl                    (25.32 75.56)         R270
+C2       100n           C050-025X075       rcl                    (19.75 75.71)         R270
+C3       10u            E2,5-6E            rcl                    (150.64 43.97)        R270
+C4       100n           C050-025X075       rcl                    (149.35 29.18)        R180
+C5       100n           C050-025X075       rcl                    (159.04 38.28)        R0
+C6       100n           C050-025X075       rcl                    (174.48 12.5)         R0
+C7       2u2            C050-055X075       rcl                    (157.37 4.64)         R270
+C8       1u             C050-055X075       rcl                    (171.78 19.47)        R90
+C9       100n           C050-025X075       rcl                    (97.75 56.77)         R270
+C10      100n           C050-025X075       rcl                    (71.75 81.66)         R270
+C11      100n           C050-025X075       rcl                    (76.75 81.55)         R270
+C12      33u            E2,5-6E            rcl                    (168.44 45.11)        R270
+C13      100n           C050-025X075       rcl                    (104.25 85.94)        R270
+C14      100n           C050-025X075       rcl                    (117.64 86.01)        R270
+C15      100n           C050-025X075       rcl                    (87.14 80.9)          R270
+C16      100n           C050-025X075       rcl                    (92.64 80.79)         R270
+C17      100n           C050-025X075       rcl                    (141.16 55.8)         R0
+IC1      MAX1044        DIL08              Componentes_PCB_vivero (159.21 45.19)        R270
+IC2      AD580H         TO39               Componentes_PCB_vivero (149.28 22.97)        R90
+IC3      OPA129P        DIL08              burr-brown             (159.34 31.21)        R90
+IC4      TL072P         DIL08              linear                 (164.97 8.64)         R270
+IC5      DHT22          AK300/3            Componentes_PCB_vivero (87.06 59.17)         R180
+IC6                     DIL18              uln-udn                (73.11 25.36)         R180
+IC7      7812TV         TO220V             linear                 (74.26 90.53)         R0
+IC8      7805TV         TO220V             linear                 (89.76 90.6)          R0
+IC9                     DIL18              uln-udn                (28.99 25.16)         R180
+R1       100k           0207/10            rcl                    (147.76 32.65)        R180
+R2       68k            0207/10            rcl                    (156.08 19.34)        R270
+R3       390k           0207/10            rcl                    (145.37 12.01)        R270
+R4       330k           0207/10            rcl                    (158.62 19.34)        R270
+R5       14k7           0207/10            rcl                    (177.05 7.42)         R0
+R6       50k            B25P               pot                    (164.65 19.43)        R180
+R7       100k           B25P               pot                    (151.27 11.86)        R0
+R8       7k8            0207/10            rcl                    (177.01 4.52)         R180
+R9       10K            0207/10            rcl                    (72.71 44.03)         R90
+R10      10k            0207/10            rcl                    (69.02 44.03)         R90
+R11      10k            0207/10            rcl                    (65.33 44.03)         R90
+R12      10k            0207/10            rcl                    (61.64 44.03)         R90
+R13      10k            0207/10            rcl                    (89.07 46.45)         R0
+U$1      A78M33         TO-252             Componentes_PCB_vivero (110.73 81.8)         MR270
+X1                      AK500/2-H          con-ptr500             (22.35 88.52)         R0
+X2       A1944-50       A1944              con-coax               (177.12 58.48)        R180
+X3                      AK300/4            con-ptr500             (66.82 59.17)         R180
+X4                      AK300/4            con-ptr500             (189.66 39.21)        R90
+X5                      AK300/8            con-ptr500             (74.63 7.55)          R0
+X6                      AK300/8            con-ptr500             (31.19 7.35)          R0
+X7                      AK300/3            con-ptr500             (45.85 75.3)          R0
+X8                      AK300/3            con-ptr500             (45.65 59.25)         R180
+X9                      AK300/3            con-ptr500             (157.3 75.3)          R0
+X10                     AK300/3            con-ptr500             (157.4 59.2)          R180
